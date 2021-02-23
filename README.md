@@ -4,12 +4,12 @@
 -----
 ## 客户端人工交互界面
 ### 登录界面
-<div align=center>
+<div>
     <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/log_in.png" width="200"/>
 </div>
 
 ### 登入界面
-<div align=center>
+<div>
     <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/loging.png" width="250"/>
 </div>
 
