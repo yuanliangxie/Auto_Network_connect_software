@@ -2,6 +2,12 @@
 -----
 这是针对深圳大学联网客户端一旦掉线不能自动重连的功能而开发的一个小软件，主要用于学校网络的自动重连以及对学校电脑进行远程监控的用途。该软件使用python语言进行开发，其中使用了PyQt5开发了人工交互界面，request进行网络请求。
 -----
+## 客户端人工交互界面
+<figure class= "half">
+    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/log_in.png">
+    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/loging.png">
+</figure>
+-----
 ## :point_down:简单介绍
 - Auto_connect_script
    - Script.py 自动联网脚本文件
