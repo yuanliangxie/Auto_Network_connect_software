@@ -4,14 +4,14 @@
 -----
 ## 客户端人工交互界面
 ### 登录界面
-<center>
-    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/log_in.png", width="200"， align="center">
-</center>
+<div align=center>
+    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/log_in.png" width="200"/>
+</div>
 
 ### 登入界面
-<center>
-    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/loging.png", width="250", align="center">
-</center>
+<div align=center>
+    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/loging.png" width="250"/>
+</div>
 
 ---
 ## :point_down:简单介绍
