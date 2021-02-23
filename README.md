@@ -5,8 +5,8 @@
 ## 客户端人工交互界面
 
 <figure class= "half">
-    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/log_in.png", width="300">
-    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/loging.png", width="400">
+    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/log_in.png", width="200">
+    <img src= "https://github.com/yuanliangxie/Auto_Network_connect_software/blob/master/UI/loging.png", width="300">
 </figure>
 
 ---
